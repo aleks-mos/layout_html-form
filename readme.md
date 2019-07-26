@@ -53,5 +53,5 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 
 **Result**
 
-- [DATE DEMO LINK](https://aleks-mos.github.io/layout_html-form/)
-- [DATE TEST REPORT LINK](https://aleks-mos.github.io/layout_html-form/layout_html-form/)
+- [UPDATE DEMO LINK](https://aleks-mos.github.io/layout_html-form/)
+- [UPDATE TEST REPORT LINK](https://aleks-mos.github.io/layout_html-form/report/html_report/)
